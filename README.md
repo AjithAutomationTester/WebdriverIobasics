@@ -1,2 +1,2 @@
 # WebdriverIobasics
- This project has WebdriverIO basic project
+ This project has WebdriverIO basic
